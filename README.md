@@ -41,4 +41,4 @@ E-Commerce 생필품 물가 변동 모니터링 및 데이터 파이프라인 �
 ```
 
 
-  7. AI Tool UsageGemini 3 Flash: 프로젝트 주제 선정 보조, 시스템 아키텍처 설계 가이드라인 작성 및 README.md 초안 구성.   
+  5. AI Tool UsageGemini 3 Flash: 프로젝트 보조   
