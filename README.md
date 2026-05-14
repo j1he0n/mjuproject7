@@ -27,8 +27,11 @@ E-Commerce 생필품 물가 변동 모니터링 및 데이터 파이프라인 �
      Q1: 주차별/월별 생필품 평균 가격 변동 추이는 어떠한가?
      Q2: 플랫폼별 특정 브랜드의 가격 차이와 최저가 유지 비율은 어떠한가?
      Q3: 요일별 할인 정책(주말 vs 평일)에 따른 가격 변동 상관관계가 존재하는가?
+
  
- 4. GitHub Repository 구조Plaintext<repo-name>/
+ 4. GitHub Repository
+구조
+Plaintext<repo-name>/
 ├── README.md       # 프로젝트 개요 및 실행 가이드
 ├── data/           # 샘플 데이터 (100~1000줄)
 ├── src/            # 소스 코드 폴더
@@ -36,6 +39,7 @@ E-Commerce 생필품 물가 변동 모니터링 및 데이터 파이프라인 �
 │   ├── pipeline/   # Spark 처리 로직
 │   └── analyze/    # Hive 쿼리 및 분석 코드
 └── reports/        # 최종 보고서 및 시각화 결과물
+
 
 
   7. AI Tool UsageGemini 3 Flash: 프로젝트 주제 선정 보조, 시스템 아키텍처 설계 가이드라인 작성 및 README.md 초안 구성.   
